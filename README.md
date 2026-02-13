@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## ![](https://komarev.com/ghpvc/?username=voxtekz&color=15d1d0&style=plastic&label=profile+views)
+hi this is a wip
 <!--
 **voxtekz/voxtekz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
