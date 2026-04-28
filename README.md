@@ -1,4 +1,4 @@
-## ![](https://komarev.com/ghpvc/?username=voxtekz&color=9d1426&style=plastic&label=voxtek)
+## ![](https://komarev.com/ghpvc/?username=voxtekz&color=9d1426&style=plastic&label=ꉂ(˵˃ ᗜ ˂˵))
 hi this is a wip
 <!--
 **voxtekz/voxtekz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
