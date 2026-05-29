@@ -1,3 +1,6 @@
 ## ![](https://komarev.com/ghpvc/?username=voxtekz&color=5f2526&style=plastic&label=ᐢ..ᐢ)
-<img width="250" height="250" alt="Image" src="https://github.com/user-attachments/assets/0c9ec5e4-bb11-4474-adb8-8f2afb8ec823" />
-
+<p align="left side">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zcrqhuqevgzrpb2p5t5of6gkl4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=5f2526">
+  </a>
+</p>
