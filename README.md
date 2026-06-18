@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=voxtekz&color=a3501a&style=plastic&label=ᐢ..ᐢ)
+![](https://komarev.com/ghpvc/?username=voxtekz&color=5f401b&style=plastic&label=ᐢ..ᐢ)
 
 <img width="200" height="210" alt="Image" src="https://github.com/user-attachments/assets/9d088bb3-a84d-4562-9ec7-0292c7f62cea" />
 <p> 
