@@ -1,6 +1,6 @@
-![](https://komarev.com/ghpvc/?username=voxtekz&color=000000&style=plastic&label=ᐢ..ᐢ)
+![](https://komarev.com/ghpvc/?username=voxtekz&color=a3501a&style=plastic&label=ᐢ..ᐢ)
 
-<img width="270" height="250" alt="Image" src="https://github.com/user-attachments/assets/95b3653d-e2fa-49c5-b0bd-0865016070ee" />
+<img width="200" height="210" alt="Image" src="https://github.com/user-attachments/assets/af95e916-2e8c-4900-827b-2ab7b0b87279" />
 <p> 
 <img src= "https://github.com/user-attachments/assets/30aac99d-13e7-4a85-9f03-9738ba3e592e"  width="250">
 
