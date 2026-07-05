@@ -6,8 +6,8 @@
 <p>
   <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=b6968c&center=true&vCenter=true&width=385&lines=%22i+miss+the+clouds.+i+miss+you.%22" alt="Typing SVG" /></a>
-  <p align="center"> 
-  <a href="https://bylerpilled.atabook.org"> atabook</a> <a href="https://rentry.co/innatesorcerer"> rentry¹</a> <a href="https://rentry.org/-wilIbyers"> rentry²</a>
+
+
    <p align="center">
     <img width="204" height="168" alt="Image" src="https://github.com/user-attachments/assets/1dd15526-720e-4f17-b55f-f29915ca06e2" />
    <p align="center">
