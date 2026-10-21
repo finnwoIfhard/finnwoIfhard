@@ -1,4 +1,5 @@
-
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=voxtekz&color=3a94c9&style=plastic&label=♡"/>
 <p align="center"> 
 <img width="535" height="320" alt="Image" src="https://github.com/user-attachments/assets/10cc27ee-74d0-4e81-9e31-6ea31715fb77" />
 
