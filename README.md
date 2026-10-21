@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=voxtekz&color=3a94c9&style=plastic&label=♡"/>
+<img src="https://komarev.com/ghpvc/?username=voxtekz&color=3a94c9&style=flat&label=♡"/>
 <p align="center"> 
 <img width="535" height="320" alt="Image" src="https://github.com/user-attachments/assets/5195e1c3-bdda-4592-8d0b-51210c183e02" />
 
